@@ -1,0 +1,8 @@
+name: Testaufgabe-Kyudo
+version: 1.2
+author: Dionik
+main: de.dionik.testaufgabe.Testaufgabe
+
+commands:
+  cash:
+  account:

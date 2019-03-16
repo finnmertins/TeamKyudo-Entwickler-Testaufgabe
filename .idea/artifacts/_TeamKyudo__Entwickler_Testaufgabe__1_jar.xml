@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="[TeamKyudo] Entwickler-Testaufgabe #1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/_TeamKyudo__Entwickler_Testaufgabe__1_jar</output-path>
+    <root id="archive" name="[TeamKyudo] Entwickler-Testaufgabe #1.jar">
+      <element id="module-output" name="[TeamKyudo] Entwickler-Testaufgabe #1" />
+    </root>
+  </artifact>
+</component>
